@@ -31,7 +31,3 @@ Simply put an "x" between the brackets like here to check it -->
 ## Additional Notes
 
 <!-- Provide any additional information or notes that may be helpful in reviewing this pull request. -->
-
-## Code of Conduct
-
-By submitting this issue, I agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
